@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-04T01:10:42 IST" name="Default suite" finished-at="2021-05-04T01:10:50 IST" duration-ms="7850">
+    <groups>
+    </groups>
+    <test started-at="2021-05-04T01:10:42 IST" name="Default test" finished-at="2021-05-04T01:10:50 IST" duration-ms="7850">
+      <class name="Academy.homePageTest">
+        <test-method signature="basePageNavigation()[pri:0, instance:Academy.homePageTest@609db43b]" started-at="2021-05-04T01:10:42 IST" name="basePageNavigation" finished-at="2021-05-04T01:10:49 IST" duration-ms="6887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="pageAccess()[pri:0, instance:Academy.homePageTest@609db43b]" started-at="2021-05-04T01:10:49 IST" name="pageAccess" finished-at="2021-05-04T01:10:49 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageAccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.homePageTest@609db43b]" started-at="2021-05-04T01:10:49 IST" name="tearDown" finished-at="2021-05-04T01:10:50 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.homePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

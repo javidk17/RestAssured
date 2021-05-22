@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Login_Validation">
+  <test thread-count="5" name="Browser">
+    <classes>
+      <class name="Academy.AppTest"/>
+      <class name="Academy.homePageTest"/>
+      <class name="Academy.validateTitleTest"/>
+    </classes>
+  </test> <!-- Browser -->
+</suite> <!-- Login_Validation -->
